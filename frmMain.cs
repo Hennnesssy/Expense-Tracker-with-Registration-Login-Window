@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ExpenseTracker;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,11 @@ namespace Program_1
         public frmMain()
         {
             InitializeComponent();
+            /*panel1.MouseEnter += (s, a) => 
+            {
+                while (panel1.Location.Y != panel1.Location.))
+                    panel1.Location = new Point(panel1.Location.X, panel1.Location.Y - 1);
+            };*/
         }
 
         private void frmMain_Load(object sender, EventArgs e)
@@ -56,7 +62,13 @@ namespace Program_1
                 this.BackColor = Color.FromArgb(255, 255, 255);
             };
         }
-        List<string> newList = new List<string>();
+        private void bnAdd_Click(object sender, EventArgs e)
+        {
+            if (Application.OpenForms["FrmAdd"] == null)
+            {
+                new FrmAdd().Show();
+            }
+        }
     }
 }
 /*

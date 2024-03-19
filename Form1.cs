@@ -1,4 +1,5 @@
-﻿using MySql.Data.MySqlClient;
+﻿using ExpenseTracker;
+using MySql.Data.MySqlClient;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -21,15 +22,12 @@ namespace Program_1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            frmMain frmMain = new frmMain();
-            frmMain.Show();
+           new frmMain().Show();
             txtLinkLogin.Click += async (s, a) => 
             { 
                 this.Hide();
                 await Task.Delay(50);
-                frmLogin loginWin = new frmLogin();
-                loginWin.Show();
-                
+                new frmLogin().Show();
             };
         }
 

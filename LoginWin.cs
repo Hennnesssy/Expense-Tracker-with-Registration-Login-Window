@@ -22,8 +22,8 @@ namespace Program_1
             {
                 this.Hide();
                 await Task.Delay(60);
-                frmRegister frmLogin = new frmRegister();
-                frmLogin.Show();
+                new frmRegister().Show();
+                
             };
         }
 
@@ -77,7 +77,6 @@ namespace Program_1
         {
             if (e.KeyCode == Keys.Enter) { e.SuppressKeyPress = true; txtBxPassword.Focus(); }
         }
-        //asdasdadaddas
         private void txtBxPassword_KeyDown(object sender, KeyEventArgs e)
         {
             if(e.KeyCode == Keys.Enter) { e.SuppressKeyPress= true; bnLogin_Click(bnLogin, null); }
