@@ -87,7 +87,7 @@ namespace Program_1
             txtBxPassword.Text = "";
             txtBxConfPassword.Text = "";
         }
-
+        // test
         private void checkBxShPassw_CheckedChanged(object sender, EventArgs e)
         {
             if (checkBxShPassw.Checked)
@@ -123,3 +123,5 @@ namespace Program_1
         }
     }
 }
+// todo when all windows are closed hide, the program closes;
+// todo => for frmMain, end log/reg closes;
