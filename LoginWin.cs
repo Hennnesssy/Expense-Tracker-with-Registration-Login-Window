@@ -20,10 +20,9 @@ namespace Program_1
 
             txtLinkRegister.Click += async (s, a) =>
             {
-                this.Hide();
-                await Task.Delay(60);
-                new frmRegister().Show();
-                
+                this.Close();
+                await Task.Delay(50);
+                //new frmRegister().Show();
             };
         }
 
@@ -43,8 +42,8 @@ namespace Program_1
             MySqlDataReader reader = cmd.ExecuteReader();
             if (reader.Read() == true)
             {
-                this.Hide();
                 new frmMain().Show();
+                this.Close();
             }
             else
             {

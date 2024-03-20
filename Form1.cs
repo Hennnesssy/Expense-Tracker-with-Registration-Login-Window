@@ -22,12 +22,12 @@ namespace Program_1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-           new frmMain().Show();
+            //new frmMain().Show();
             txtLinkLogin.Click += async (s, a) => 
             { 
-                this.Hide();
                 await Task.Delay(50);
                 new frmLogin().Show();
+                //this.Hide();
             };
         }
 
@@ -59,9 +59,9 @@ namespace Program_1
                         cmd.ExecuteNonQuery();
                         MessageBox.Show("User registered is succsessfully", "succsess", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                        this.Hide();
                         frmLogin loginWin = new frmLogin();
                         loginWin.Show();
+                        this.Hide();
                     }
                     catch (Exception ex)
                     {
