@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|c:\\users\\administrator\\source\\repos\\hennnesssy\\expense-tracker-with-registration-login-window\\loginwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:loginwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\regexvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:regexvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\datebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:datebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\registerwin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:registerwin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\loginwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:loginwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\registerwin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:registerwin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\registerwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:registerwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\loginwin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:loginwin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\registerwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AF04844-1E9D-4F5F-AA71-E8482E8F84AE}|Program#1.csproj|solutionrelative:registerwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 202,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\LoginWin.cs",
+              "RelativeDocumentMoniker": "LoginWin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\LoginWin.cs",
+              "RelativeToolTip": "LoginWin.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:59:32.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\FrmAdd.cs",
+              "RelativeDocumentMoniker": "FrmAdd.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\FrmAdd.cs",
+              "RelativeToolTip": "FrmAdd.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-28T20:59:32.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\Expense.cs",
+              "RelativeDocumentMoniker": "Expense.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\Expense.cs",
+              "RelativeToolTip": "Expense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:59:32.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\frmMain.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\frmMain.cs*",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-28T20:59:32.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\Form1.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\Form1.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-28T20:59:32.358Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:59:32.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\frmMain.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\frmMain.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-28T20:59:32.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\FrmAdd.cs",
+              "RelativeDocumentMoniker": "FrmAdd.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\FrmAdd.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\FrmAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-28T20:59:32.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\Form1.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-28T20:59:32.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegexValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\RegexValidator.cs",
+              "RelativeDocumentMoniker": "RegexValidator.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\RegexValidator.cs",
+              "RelativeToolTip": "RegexValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:59:32.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DateBase.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\DateBase.cs",
+              "RelativeDocumentMoniker": "DateBase.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\DateBase.cs",
+              "RelativeToolTip": "DateBase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:59:32.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterWin.resx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\RegisterWin.resx",
+              "RelativeDocumentMoniker": "RegisterWin.resx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\RegisterWin.resx",
+              "RelativeToolTip": "RegisterWin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-28T20:59:32.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginWin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\LoginWin.cs",
+              "RelativeDocumentMoniker": "LoginWin.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\LoginWin.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\LoginWin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-28T20:59:32.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAwwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-28T20:59:32.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterWin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\RegisterWin.Designer.cs",
+              "RelativeDocumentMoniker": "RegisterWin.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\RegisterWin.Designer.cs",
+              "RelativeToolTip": "RegisterWin.Designer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAABRwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-28T20:59:32.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginWin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\LoginWin.Designer.cs",
+              "RelativeDocumentMoniker": "LoginWin.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\LoginWin.Designer.cs",
+              "RelativeToolTip": "LoginWin.Designer.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAwwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-28T20:59:32.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterWin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\RegisterWin.cs",
+              "RelativeDocumentMoniker": "RegisterWin.cs",
+              "ToolTip": "C:\\Users\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\RegisterWin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u0420\u0443\u0441\u043B\u0430\u043D\\source\\repos\\C-_Program\\RegisterWin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-28T20:59:32.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterWin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\RegisterWin.cs",
+              "RelativeDocumentMoniker": "RegisterWin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Hennnesssy\\Expense-Tracker-with-Registration-Login-Window\\RegisterWin.cs",
+              "RelativeToolTip": "RegisterWin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-28T20:59:32.636Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 166,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
