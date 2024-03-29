@@ -9,9 +9,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//delete
+//delete //delete222gasdasd
+//sadasas
+//test 3
 namespace Program_1
 {
+
+    //string path = @"D:\Program Files";
     public partial class frmMain : Form
     {
         public List<Expense> Expenses { get; set; }
